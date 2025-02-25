@@ -1,0 +1,6 @@
+devops/ilp1/service/UserServiceTest.class
+devops/ilp1/controllerWithoutDb/LoginTest.class
+devops/ilp1/IntegrationTest.class
+devops/ilp1/controllerWithoutDb/ChangePasswordTest.class
+devops/ilp1/LoginFunctionalTest.class
+devops/ilp1/controllerWithoutDb/RegisterTest.class

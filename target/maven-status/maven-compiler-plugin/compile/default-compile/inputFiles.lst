@@ -1,0 +1,6 @@
+/home/labuser/labproj/ILP_FancyStore/src/main/java/devops/ilp1/db/UserDb.java
+/home/labuser/labproj/ILP_FancyStore/src/main/java/devops/ilp1/model/User.java
+/home/labuser/labproj/ILP_FancyStore/src/main/java/devops/ilp1/controllerWithoutDb/UserLoginController.java
+/home/labuser/labproj/ILP_FancyStore/src/main/java/devops/ilp1/service/UserService.java
+/home/labuser/labproj/ILP_FancyStore/src/main/java/devops/ilp1/controllerWithoutDb/UserRegisterController.java
+/home/labuser/labproj/ILP_FancyStore/src/main/java/devops/ilp1/controllerWithoutDb/UserPasswordController.java

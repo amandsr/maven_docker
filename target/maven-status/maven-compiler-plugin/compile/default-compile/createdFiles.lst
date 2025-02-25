@@ -1,0 +1,6 @@
+devops/ilp1/service/UserService.class
+devops/ilp1/db/UserDb.class
+devops/ilp1/controllerWithoutDb/UserRegisterController.class
+devops/ilp1/controllerWithoutDb/UserPasswordController.class
+devops/ilp1/model/User.class
+devops/ilp1/controllerWithoutDb/UserLoginController.class
